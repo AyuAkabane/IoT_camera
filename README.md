@@ -22,3 +22,4 @@ Creative points in My work
 
 
 ![図1](https://user-images.githubusercontent.com/87026230/192127961-3b32e536-ea7b-41ea-8c0e-e24f05f2fea4.jpg)
+![図1 (1)](https://user-images.githubusercontent.com/87026230/192127973-3c128ac9-e6b3-425a-ab02-7013b6349083.jpg)
