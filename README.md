@@ -17,9 +17,5 @@ Creative points in My work
  ー 保存される画像が容量いっぱいにならないようPCのローカルディスクは上書きされるようにした点、しかしLINE上で送信される画像は物体が動き保存された画像全てを通知する点
  
  モニターの映像
- 
- 　　
-
 
 ![図1](https://user-images.githubusercontent.com/87026230/192127961-3b32e536-ea7b-41ea-8c0e-e24f05f2fea4.jpg)
-![図1 (1)](https://user-images.githubusercontent.com/87026230/192127973-3c128ac9-e6b3-425a-ab02-7013b6349083.jpg)
